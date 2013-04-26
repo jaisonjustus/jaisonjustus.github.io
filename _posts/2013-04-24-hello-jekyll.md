@@ -27,11 +27,11 @@ so the jekyll blog is ready. to test your blog locally run
 
 by default the server start running at [localhost:4000](http://localhost:4000). now to make a new blog post run
 
-    rake post name="My new post"
+    rake post title="My new post"
 
 now go and check the directory `_posts/` you can find a file `2013-04-24-my-new-post.md` which is your markdown file of your blog post. The file name should be date+postname. so its easy to track the blog post. Next you want to make a new page
 
-    rake page name="My new page"
+    rake page name="mypage.md"
 
 After finishing editing the blog. push the changes to the repository
 
