@@ -11,8 +11,7 @@ tagline: Supporting tagline
 
 "Life is pretty simple: You do some stuff. Most fails. Some works.
 You do more of what works. If it works big, others quickly copy it. 
-Then you do something else. 
-`The trick is the doing something else.`" - `Leonardo da Vinci`
+Then you do something else.The trick is the doing something else." - _Leonardo da Vinci_
 
 ____
 

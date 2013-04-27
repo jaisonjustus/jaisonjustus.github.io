@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Faye, The Pub/Sub Rockstar."
-description: "Faye, a simple pub/sub library for the web"
-category: "pub/sub, NodeJS, Ruby"
-tags: ["Pub/Sub","NodeJS","Ruby"]
+title: "Faye, The Pub/Sub Rockstart"
+description: "Faye simple Pub/Sub Library"
+category: "Pub-Sub, Javascript, NodeJS, Ruby"
+tags: ["Pub-Sub","Javascript","NodeJS","Ruby"]
 ---
 {% include JB/setup %}
 

@@ -6,9 +6,9 @@ category: "Jekyll, Ruby"
 tags: [Jekkyll, Ruby]
 ---
 
-I came across lot of `Jekyl` blog post and talks. At that time i think like whats new in a static site generator. Its static there is no use of static. But last week i came to know that static is powerfull yet than dynamic. same as in electricity so i planned to start the blog on my github using Jekyll. when i started using, its seems so cool. i loving this piece of art. i prefer everybody to try Jekyll. I like to share the steps i made this jekyll blog to up and running in github and finally `jaisonjustus.github.io` voila!!. you can find the copy of the steps in different website, even in the references but i like to just spot down the steps, for further readings please go through the references, and feel free to share more references, feedback, typos etc.
+I came across lot of _Jekyl_ blog post and talks. At that time i think like whats new in a static site generator. Its static there is no use of static. But last week i came to know that static is powerfull yet than dynamic. same as in electricity so i planned to start the blog on my github using Jekyll. when i started using, its seems so cool. i loving this piece of art. i prefer everybody to try Jekyll. I like to share the steps i made this jekyll blog to up and running in github and finally _jaisonjustus.github.io_ voila!!. you can find the copy of the steps in different website, even in the references but i like to just spot down the steps, for further readings please go through the references, and feel free to share more references, feedback, typos etc.
 
-[Jekyll](http://jekyllrb.com/) is a static site generator, seems powerfull and good for me and the tag line of jekyll is apt `convert your text into a monster`. Jekyll is built by Tom Preston-Werner [github@mojombo](https://github.com/mojombo). Jekyll is built on `Ruby` one of the powerfull language. its very easy to setup, customize and use. dependencies required for jekyll is `Ruby`.
+[Jekyll](http://jekyllrb.com/) is a static site generator, seems powerfull and good for me and the tag line of jekyll is apt _convert your text into a monster_. Jekyll is built by Tom Preston-Werner [github@mojombo](https://github.com/mojombo). Jekyll is built on _Ruby_ one of the powerfull language. its very easy to setup, customize and use. dependencies required for jekyll is _Ruby_.
 
 install jekyll ruby gem.
 
@@ -29,7 +29,7 @@ by default the server start running at [localhost:4000](http://localhost:4000). 
 
     rake post title="My new post"
 
-now go and check the directory `_posts/` you can find a file `2013-04-24-my-new-post.md` which is your markdown file of your blog post. The file name should be date+postname. so its easy to track the blog post. Next you want to make a new page
+now go and check the directory __posts/_ you can find a file _2013-04-24-my-new-post.md_ which is your markdown file of your blog post. The file name should be date+postname. so its easy to track the blog post. Next you want to make a new page
 
     rake page name="mypage.md"
 
