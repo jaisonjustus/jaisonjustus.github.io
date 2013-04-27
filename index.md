@@ -5,6 +5,8 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+![My Identity](https://si0.twimg.com/profile_images/1416687499/jaakfussion.jpg)
+
 “I love the WEB. Respect every Programming language. I used to write poetry mainly in JS. Designing is also my passion. I love my Planet and each and every folks”
 
 "Life is pretty simple: You do some stuff. Most fails. Some works.
