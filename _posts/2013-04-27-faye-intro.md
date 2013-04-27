@@ -3,7 +3,7 @@ layout: post
 title: "Faye, The Pub/Sub Rockstart"
 description: "Faye simple Pub/Sub Library"
 category: "Pub-Sub, Javascript, NodeJS, Ruby"
-tags: [Pub-Sub,Javascript,NodeJS,Ruby]
+tags: [Pub-Sub, Javascript, NodeJS, Ruby]
 ---
 
 Faye is a simple and elegant _publish-subscribe_ messaging library. Faye is build based on _Bayeux_. Bayeux is a protocol for transfering data asynchronously between server-client with lower latency. Protocol is meant to support responsive bidirectional interaction between server-client, client-client through server. Bayeux is based on publish subscribe routing semantics. Delivery of asynchronous messages from the server to a web client is often described as server-push.
