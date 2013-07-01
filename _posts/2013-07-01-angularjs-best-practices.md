@@ -6,10 +6,7 @@ category: "Javascript, AngularJS"
 tags: ["Javascript", "AngularJS"]
 ---
 
-#Best Practices for AngularJS
-This leaflet includes best practice to be followed and understanding while developing an Angular application. This leaflet is Based on Misko Hevery talk about AngularJS best practices. You can find the video on youtube's angular channel. Check the resource for links and more details.
-
----
+This blog post shows the best practice to be followed and understanding while developing an Angular application. This leaflet is Based on Misko Hevery talk about AngularJS best practices. You can find the video on youtube's angular channel. Check the resource for links and more details.
 
 ###When end user reports that he saw {{name}} on initial page render and confused.
 
