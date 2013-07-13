@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "AngularJS Best Practices"
-description: "Best Practices to keep while making an angular application"
-category: "Javascript, AngularJS"
-tags: ["Javascript", "AngularJS"]
+description: "AngularJS Best Practices"
+category: "AngularJS, Javascript"
+tags: [AngularJS, Javascript]
 ---
 
-This blog post shows the best practice to be followed and understanding while developing an Angular application. This leaflet is Based on Misko Hevery talk about AngularJS best practices. You can find the video on youtube's angular channel. Check the resource for links and more details.
+#Best Practices for AngularJS
+This leaflet includes best practice to be followed and understanding while developing an Angular application. This leaflet is Based on Misko Hevery talk about AngularJS best practices. You can find the video on youtube's angular channel. Check the resource for links and more details.
+
+---
 
 ###When end user reports that he saw {{name}} on initial page render and confused.
 
