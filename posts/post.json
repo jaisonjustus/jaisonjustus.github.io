@@ -1,0 +1,33 @@
+[
+	{
+		"name" : "AngularJS Best Practice",
+		"file"  : "angularjs-best-practice",
+		"date" : "12 June 2012",
+		"desc" : "AngularJS is a superhero framework by Misko, now maintained by google. This article helps to follow the best practices while developing and angular application. This article is based on Misko video you can found in youtube. the link is specified in the article.",
+		"tags" : ["Javascript", "AngularJS"]
+	},
+
+	{
+		"name" : "Faye, The Pub/Sub Rockstart",
+		"file"  : "faye-intro",
+		"date" : "12 June 2012",
+		"desc" : "Faye is a simple and elegant publish-subscribe messaging library. Faye is build based on Bayeux. Bayeux is a protocol for transfering data asynchronously between server-client with lower latency",
+		"tags" : ["Pub-Sub", "Javascript", "NodeJS", "Ruby"]
+	},
+
+	{
+		"name" : "The day that starts changing me",
+		"file"  : "the-day-that-starts-changing-me",
+		"date" : "12 June 2012",
+		"desc" : "This is a very old blog post. i moved this post from my wordpress blog to here. because i liked it very much. My first experience in going to a real conference JSFoo'12 in Bangalore.",
+		"tags" : ["Pub-Sub", "Javascript", "NodeJS", "Ruby"]
+	},
+
+	{
+		"name" : "Hello Jekyll",
+		"file"  : "hello-jekyll",
+		"date" : "12 June 2012",
+		"desc" : "Jekyll is a static site generator, seems powerfull and good for me and the tag line of jekyll is apt convert your text into a monster.",
+		"tags" : ["Pub-Sub", "Javascript", "NodeJS", "Ruby"]
+	}
+]

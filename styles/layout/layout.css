@@ -1,0 +1,18 @@
+.layout: {
+
+}
+
+.layout__wrapper	{
+	width: 700px;
+	height: auto;
+	padding: 10px;
+	overflow: hidden;
+	margin: auto;
+}
+
+@media screen and (max-width: 1030px)	{
+	.layout__wrapper{
+		width: 100%;
+		padding: 0;	
+	}
+}

@@ -1,0 +1,119 @@
+.home__post-search	{
+	width: 95%;
+	padding: 1% 2% 1% 2%;
+	margin:30px 0px 10px 0px;
+	background-color: white;
+	border: 0;
+	border: 1px solid #bbbbbb;
+	font:400 20px "Source Sans Pro";
+	box-shadow: 0px 0px 2px 0px #aaaaaa;
+}
+
+.home__posts-wrapper	{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+
+.home__posts	{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.home__post	{
+	width: 700;
+	height: auto;
+	overflow: hidden;
+	list-style: none;
+	margin-top: 30px;
+	padding-bottom: 30px;
+}
+
+@media screen and (max-width: 1030px)	{
+	.home__post {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 700px)	{
+	.home__post-article-details	{
+		display: none;
+	}
+
+	.home__post-article-content	{
+		width: 100% !important;
+	}
+}
+
+.home__post-article-details	{
+	width: 130px;
+	height: auto;
+	overflow: hidden;
+	text-align: right;
+	float: left;
+	padding-right: 20px;
+}
+
+.home__post-article-content	{
+	width: 550px;
+	height: auto;
+	overflow: hidden;
+	text-align: left;
+	float: left;
+}
+
+.home__post-article-icon	{
+	width: 50px;
+	height: 38px;
+	border-radius: 40px;
+	text-align: center;
+	font:700 22px "Source Sans Pro";
+	margin: 10px 2px 0px 2px;
+	padding-top: 12px;
+	float: right;
+	color: white;
+}
+
+.home__post-article-icon_0	{ background-color: #1abc9c; }
+.home__post-article-icon_1	{ background-color: #2ecc71; }
+.home__post-article-icon_2	{ background-color: #3498db; }
+.home__post-article-icon_3	{ background-color: #9b59b6; }
+.home__post-article-icon_4	{ background-color: #16a085; }
+.home__post-article-icon_5	{ background-color: #27ae60; }
+.home__post-article-icon_6	{ background-color: #2980b9; }
+.home__post-article-icon_7	{ background-color: #8e44ad; }
+.home__post-article-icon_8	{ background-color: #f1c40f; }
+.home__post-article-icon_9	{ background-color: #e67e22; }
+.home__post-article-icon_10	{ background-color: #e74c3c; }
+.home__post-article-icon_11	{ background-color: #f39c12; }
+.home__post-article-icon_12	{ background-color: #d35400; }
+.home__post-article-icon_13	{ background-color: #c0392b; }
+
+
+.home__post-article-date	{
+	clear: right;
+	float: right;
+	font: 400 14px "Source Sans Pro";
+}
+
+.home__post-article-name	{
+	text-decoration: none;
+	display: block;
+}
+
+.home__post-article-link	{
+	text-decoration: none;
+	width: auto;
+	height: auto;
+	font: 13px "Source Sans Pro";
+	color:white;
+	background-color: #3498db;
+	font-weight: 500;
+	margin:0px 10px 10px 0px;
+	padding: 3px 10px 3px 10px;
+	float: left;
+	margin-bottom: 10px;
+	border-radius: 3px;
+}

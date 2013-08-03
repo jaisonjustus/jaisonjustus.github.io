@@ -1,0 +1,92 @@
+.article__name	{
+	font: 700 30px "Source Sans Pro";
+	color: #171817;
+	margin: 0;
+	padding: 0;
+	margin: 5px 0px 5px 0px;
+}
+
+.article__date	{
+	font: 400 13px "Source Sans Pro";
+	color: #171817;
+	margin: 0;
+	padding: 0;
+	margin: 5px 0px 5px 0px;
+}
+
+.article__by	{
+	font: 200 20px "Source Sans Pro";
+	color: #171817;
+}
+
+.article__on 	{
+	font: 200 13px "Source Sans Pro";
+	color: #171817;
+	margin:0px 0px 0px 5px;
+}
+
+.article__tags	{
+	clear: both;
+	padding: 0;
+	margin:0;
+}
+
+.article__tag	{
+	font: 700 12px "Source Sans Pro";
+	color: #171817;
+	background-color: #eeeeee;
+	margin-right: 10px; 
+	list-style: none;
+	width: auto;
+	clear: both;
+	padding: 2px 5px 2px 5px;
+	border-radius: 3px;
+}
+
+.article__desc	{
+	font: 400 15px "Source Sans Pro";
+	color: #171817;
+}
+
+.article__readmore	{
+
+}
+
+.article__content	{
+	font: 200 16px "Source Sans Pro";
+	color:#171817;
+	clear: both;
+	margin-top:20px;
+	border-top:1px dashed #eeeeee;
+}
+
+.article__content p,li	{
+	font: 400 17px "Source Sans Pro";
+	color:#171817;
+	line-height: 30px;
+}
+
+.article__content a	{
+	text-decoration: none;
+	font: 400 17px "Source Sans Pro";
+	color:#3498db;
+	line-height: 30px;
+}
+
+.article__content	code {
+  background-color: #eeeeee;
+  display: block;
+  padding: 10px;
+  font: 600 15px "Source Sans Pro";
+  line-height: 22px;
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
+.article__content img {
+	width: 100%;
+}
+
+.article__content hr {
+	border: 1px solid #eeeeee;
+}
