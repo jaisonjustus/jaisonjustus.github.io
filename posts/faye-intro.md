@@ -6,7 +6,7 @@ Before talking about Faye, just take a lookup on publish-subscribe. _What is pub
 
 Faye library is available on the most widely used server languages _ruby_ and _node_.
 
-![Faye Architecture](https://raw.github.com/jaisonjustus/jaisonjustus.github.io/master/assets/_images/faye-arch.png)
+![Faye Architecture](images/faye-arch.png)
 
 ####Using Faye in Node
 
