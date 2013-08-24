@@ -1,5 +1,13 @@
 [
 	{
+		"name" : "Git Ninjas - Part One",
+		"file"  : "git-comics-part-one",
+		"date" : "24 August 2012",
+		"desc" : "Jekyll is a static site generator, seems powerfull and good for me and the tag line of jekyll is apt convert your text into a monster.",
+		"tags" : ["Pub-Sub", "Javascript", "NodeJS", "Ruby"]
+	},
+	
+	{
 		"name" : "AngularJS Best Practice",
 		"file"  : "angularjs-best-practice",
 		"date" : "12 June 2012",
