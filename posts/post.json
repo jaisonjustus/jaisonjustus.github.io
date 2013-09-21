@@ -1,16 +1,23 @@
 [
 	{
+		"name" : "How to write good css using BEM",
+		"file"  : "how-to-write-good-css-using-bem",
+		"date" : "21 September 2013",
+		"desc" : "BEM is a Methodology deals with the modularised development of Web Front-Ends. This methodology is developed by a search engine giant company called __Yandex__ based on Russia and widely used across in Russia and Post-Soviet States.",
+		"tags" : ["BEM", "CSS", "b_"]
+	},
+	{
 		"name" : "Git Ninjas - Part One",
 		"file"  : "git-comics-part-one",
-		"date" : "24 August 2012",
+		"date" : "24 August 2013",
 		"desc" : "Jekyll is a static site generator, seems powerfull and good for me and the tag line of jekyll is apt convert your text into a monster.",
 		"tags" : ["Pub-Sub", "Javascript", "NodeJS", "Ruby"]
 	},
-	
+
 	{
 		"name" : "AngularJS Best Practice",
 		"file"  : "angularjs-best-practice",
-		"date" : "12 June 2012",
+		"date" : "12 June 2013",
 		"desc" : "AngularJS is a superhero framework by Misko, now maintained by google. This article helps to follow the best practices while developing and angular application. This article is based on Misko video you can found in youtube. the link is specified in the article.",
 		"tags" : ["Javascript", "AngularJS"]
 	},
@@ -18,7 +25,7 @@
 	{
 		"name" : "Faye, The Pub/Sub Rockstart",
 		"file"  : "faye-intro",
-		"date" : "12 June 2012",
+		"date" : "12 June 2013",
 		"desc" : "Faye is a simple and elegant publish-subscribe messaging library. Faye is build based on Bayeux. Bayeux is a protocol for transfering data asynchronously between server-client with lower latency",
 		"tags" : ["Pub-Sub", "Javascript", "NodeJS", "Ruby"]
 	},
