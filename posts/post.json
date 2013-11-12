@@ -1,5 +1,12 @@
 [
 	{
+		"name" : "Simple style guide for Javascript",
+		"file"  : "coding-style-for-javascript",
+		"date" : "13 September 2013",
+		"desc" : "For us code is our poetry and its our privilege to make it beautiful and readable.",
+		"tags" : ["Javascript", "style", "guide", "js"]
+	},
+	{
 		"name" : "How to write good css using BEM",
 		"file"  : "how-to-write-good-css-using-bem",
 		"date" : "21 September 2013",
